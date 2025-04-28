@@ -1,0 +1,1 @@
+This project was created to practice git and github commands, it includes how to connect to local repositories and how to upload/comment/pull code.
